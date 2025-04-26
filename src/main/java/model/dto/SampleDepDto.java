@@ -11,6 +11,7 @@ public class SampleDepDto {
         this.loc = loc;
     }
 
+    // 기본생성자
     public  SampleDepDto() {}
 
     public int getDeptno() {
