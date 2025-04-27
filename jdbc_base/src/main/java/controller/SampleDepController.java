@@ -22,7 +22,6 @@ public class SampleDepController {
 
 
 
-
     // C
     public void insertDep(SampleDepDto sampleDepDto) {
 
@@ -61,7 +60,6 @@ public class SampleDepController {
         }
 
     }
-
 
     // D
     public void deleteDep(int deptno) {
